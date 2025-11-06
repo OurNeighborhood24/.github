@@ -1,10 +1,15 @@
 # 우리동네24
-
-우리동네24는 시민이 직접 참여해 지역의 안전과 환경을 지키는 지도 기반 신고 플랫폼입니다.
+## 프로젝트 개요
+**우리동네24는 시민이 직접 참여해** 지역의 안전과 환경을 지키는 지도 기반 신고 플랫폼입니다.
 
 길이 파손되었거나, 범죄 흔적이 보이거나, 재난 위험이나 불법 투기 등과 같은 생활 속 위험 요소를
 시민이 손쉽게 신고하고, 행정이 이를 실시간으로 확인·처리할 수 있도록 돕습니다.
-<img width="1406" height="794" alt="스크린샷 2025-11-06 오후 8 16 17" src="https://github.com/user-attachments/assets/51676ca0-6074-4682-8efc-fadef3ec8394" />
+
+
+<img width="1407" height="790" alt="스크린샷 2025-11-06 오후 8 37 42" src="https://github.com/user-attachments/assets/8345d6c6-c1c9-4dda-8e4b-f8696638a52f" />
+
+<img width="1926" height="1070" alt="image" src="https://github.com/user-attachments/assets/5c2291c1-452a-4a6c-98cb-ec6e654df1e0" />
+
 
 
 ## 기능
@@ -14,22 +19,23 @@
 
 신고 시에는 이미지, 위치 정보(GPS), 시간, 카테고리, 상세 내용을 함께 입력하게 됩니다.
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/68082f84-f055-4971-a5d8-d80cfee6e9ad" />
-
 신고 후에는 처리 상태(미확인 / 확인됨 / 처리중 / 처리완료)를 확인할 수 있으며,
 
 최근 한 달 이내의 신고 내역이 지도 위에 핀으로 표시됩니다.
 
 또한 카테고리별로 신고 내역을 필터링해볼 수도 있습니다.
 
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/68082f84-f055-4971-a5d8-d80cfee6e9ad" />
+
 ### 관리자 기능
 
 관리자는 시민이 등록한 신고 내역을 확인하고,
 각 신고의 진행 상태를 "미확인 → 확인됨 -> 처리중 → 처리완료" 단계로 관리할 수 있습니다.
-<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/d14f5581-925a-4304-8131-4b4aaa0c7b06" />
 
 또한 서비스 내 공지사항을 등록하거나 수정할 수 있으며,
 지역별·카테고리별로 통계를 확인할 수도 있습니다.
+
+<img width="3840" height="3062" alt="image" src="https://github.com/user-attachments/assets/2710910e-8fe0-4c73-b39a-2e2f412e7461" />
 
 ### 공통 구조
 
